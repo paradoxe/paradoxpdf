@@ -3,7 +3,7 @@ paradoxpdf
 
 ParadoxPDF is an eZ Publish (Legacy) extension that provides a simple way to export views in PDF format. 
 
-It's platform independent, easy to use and performant.
+It's platform independent, easy to use and efficient.
 
 How does it work ?
 ------------------
