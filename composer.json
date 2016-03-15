@@ -11,7 +11,7 @@
 		 {
             "name": "Amiral Web",
             "homepage": "http://www.amiralweb.com"
-        },
+        }
     ],
     "license": "GPL-2.0",
     "minimum-stability": "stable",
