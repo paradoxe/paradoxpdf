@@ -1,7 +1,7 @@
 {
-    "name": "informaticatrentina/paradoxpdf",
-    "version": "1.2",
-    "description": "ParadoxPDF (FORK)",
+    "name": "paradoxe/paradoxpdf",
+    "version": "1.0",
+    "description": "ParadoxPDF",
     "type": "ezpublish-legacy-extension",
     "authors": [
     	{
