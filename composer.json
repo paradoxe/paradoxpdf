@@ -1,0 +1,17 @@
+{
+    "name": "paradoxe/paradoxpdf",
+    "version": "1.0",
+    "description": "ParadoxPDF",
+    "type": "ezpublish-legacy-extension",
+    "authors": [
+    	{
+            "name": "Amiral Web",
+            "homepage": "http://www.amiralweb.com"
+        }
+    ],
+    "license": "GPL-2.0",
+    "minimum-stability": "stable",
+    "extra": {
+        "ezpublish-legacy-extension-name": "paradoxpdf"
+    }
+}
